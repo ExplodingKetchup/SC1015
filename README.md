@@ -36,5 +36,7 @@ This is a Mini-Project for SC10155 (Introduction to Data Science and Artificial 
 - <https://www.tensorflow.org/tutorials/keras/regression>
 - <https://towardsdatascience.com/random-forest-regression-5f605132d19d>
 - <https://www.geeksforgeeks.org/random-forest-regression-in-python/>
-- 
+- <https://www.kaggle.com/code/carlmcbrideellis/an-introduction-to-xgboost-regression>
+- <https://towardsdatascience.com/a-brief-introduction-to-xgboost-3eaee2e3e5d6>
+- <https://www.kaggle.com/code/carlmcbrideellis/feature-selection-using-the-boruta-shap-package/notebook>
 
